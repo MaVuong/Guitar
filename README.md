@@ -2,4 +2,7 @@
 Guitar project
 
 Nếu nhỏ hơn 10 thì hiển hị mình các bài hát cổ
-Lớn hơn 10 thì full List
+<br>
+Lớn hơn 10 thì full List yc rate 5 sao
+<br>
+
